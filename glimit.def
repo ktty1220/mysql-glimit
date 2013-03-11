@@ -1,0 +1,5 @@
+LIBRARY glimit.dll
+EXPORTS
+glimit_deinit
+glimit_init
+glimit
